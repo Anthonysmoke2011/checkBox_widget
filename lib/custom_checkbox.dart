@@ -26,7 +26,6 @@ bool? isChecked = false;
           },
         ),
        )
-
      );
   }
 }
